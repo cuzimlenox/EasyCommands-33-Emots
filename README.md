@@ -6,7 +6,7 @@ You can change everything in help-c.lua!
 
 Installation:
 
-Copy the `EasyCommands` folder to your server resources folder
-Add start `EasyCommands` to your server.cfg
-Restart the server
+1. Copy the `EasyCommands` folder to your server resources folder
+2. Add start `EasyCommands` to your server.cfg
+3. Restart the server
 
